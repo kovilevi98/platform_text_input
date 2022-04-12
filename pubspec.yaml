@@ -1,7 +1,7 @@
 name: platform_text_input
-description: A new Flutter package project.
+description: A new flutter input text widget for mobile platforms.
 version: 0.0.1
-homepage:
+homepage: 
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
