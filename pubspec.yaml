@@ -1,7 +1,8 @@
 name: platform_text_input
 description: A new flutter input text widget for mobile platforms.
 version: 0.0.1
-homepage: 
+homepage: https://github.com/kovilevi98/platform_text_input
+repository: https://github.com/kovilevi98/platform_text_input
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
